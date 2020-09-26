@@ -83,23 +83,23 @@ O CSS Grid Layout é o sistema de layout mais completo em CSS. É um sistema bid
 ## Referências
 Este artigo foi feito a partir do material visto em aula e os seguintes sites: 
 
->*[origamid.com]*
+*[origamid.com]*
 
->*[simplesnippets.tech]*
+*[simplesnippets.tech]*
 
->*[maujor.com]*
+*[maujor.com]*
 
->*[medium.com]*
+*[medium.com]*
 
->*[brunoprogramacao.com.br]*
+*[brunoprogramacao.com.br]*
 
->*[programaria.org]*
+*[programaria.org]*
 
->*[googleapis.com]*
+*[googleapis.com]*
 
->*[mozillademos.org]*
+*[mozillademos.org]*
 
->*[billerickson.net]*
+*[billerickson.net]*
 
 
 ## ALYSON CAMARGO BP3002241
